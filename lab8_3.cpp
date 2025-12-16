@@ -45,4 +45,5 @@ int main(){
         crew = "Brook";
     }
     cout << "Your character = " << crew;
+    return 0;
 }
